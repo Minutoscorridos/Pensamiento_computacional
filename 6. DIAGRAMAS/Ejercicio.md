@@ -10,6 +10,7 @@
         5 resultado= numero*9 
         6 muestra "El resultado de multiplicar por 9", resultado  
         7 fin
+        https://app.diagrams.net/
       
    
     
