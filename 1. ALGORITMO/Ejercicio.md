@@ -1,6 +1,8 @@
 ### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 Actividad: Salir de casa
+
 apagar luces
+
 revisar si llevo llaves 
 identificaciones 
 boleto de metro
