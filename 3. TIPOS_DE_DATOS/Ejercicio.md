@@ -3,17 +3,17 @@ Vamos a identificar los siguientes tipos de datos
 
 NUMEROS ENTEROS : 
 
-      TU RESPUESTA AQUI
+      son numeros enteros depende el tamaño del lenguaje
 
 NUMEROS DECIMALES: 
 
-      TU RESPUESTA AQUI
-
+      numeros  reales, decimales positivos y negativos incluído el cero  
+      
 CARACTER : 
 
-      TU RESPUESTA AQUI
+      son caracteres especiales como arroba, +, * u otros de codigo asci  
 
 CADENA DE CARACTERES : 
 
-      TU RESPUESTA AQUI
+      son un conjunto de caracteres que pueden ser letras, nuemros y otros caracteres, simepre entre comillas.
     
