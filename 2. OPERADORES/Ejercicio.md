@@ -13,19 +13,32 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 
 X = (5 + 2 * 4) – (25 +. 5) * 2
 
-      TU RESPUESTA AQUI
+     X = (7 * 4)- (25 + .5) * 2
+     X = 28 - (25.5 * 2)
+     X = 28 - 51
+     X = -23 
+     
 
 X = (100/5^2 + 1) + 11 * 3
 
-      TU RESPUESTA AQUI
+     X = (100/10 +1) +11 * 3
+     X = (10 + 1)+ 11 * 3
+     X = 11 + 33
+     X = 44
 
 X = ((8-6)^2*3)^3.
 
-      TU RESPUESTA AQUI
+      X = ((2)^2*3)^3
+      X = (4*3)^3
+      X = (12)^3
+      X = 1728
 
 x = ((8+5) *4) * (10-6)/4) 
 
-      TU RESPUESTA AQUI
+      X = ((13 * 4) * (10-6)/4)
+      X = ((52) * 4/4)
+      X = (52 * 1)
+      X = 52
 
 ## OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de
@@ -51,8 +64,8 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
+1) (45<120 OR 12<120) = True
+2) (6! =6) && (12>22)) = False
+3) ¬ (128<145 && 12>9) = 
 4) “Daniela”< >”DANIELA” =
 5) 10*20< >210 =
