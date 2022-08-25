@@ -9,6 +9,9 @@
         7. SI num1 > num2 mostrar(num1," > ",num2)
            SINO mostrar (num1," < ",num2)
         8. fin
+
+![image](https://user-images.githubusercontent.com/107580905/186557765-344584f6-3336-445d-ac47-b6d2f0db3cb4.png)
+
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
