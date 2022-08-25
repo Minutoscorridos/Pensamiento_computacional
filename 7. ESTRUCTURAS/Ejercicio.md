@@ -17,19 +17,18 @@
 
        1. inicio
        2. declara calif1(float),calif2(float),calif3(float),calif4(float),promedio(float)
-       3. mostrar ("Ingresa las calificacio 1")
+       3. mostrar ("Ingresa la calificación 1")
        4. asignar(calif1)
        5. mostrar"Ingresa calificacion 2")
        6. asignar(calif2)
-       7. mostrar("ingresa calificcacion3")
+       7. mostrar("ingresa calificcacion 3")
        8. asignar(calif3) 
-       9. mostrar("ingresa calificcacion4")
+       9. mostrar("ingresa calificcacion 4")
        10. promedio=(sumar(calif1+calif2+calif3+calif4))/4
-       11.SI promedio>=6 mostrar ("Felicidades tu promedio es ", promedio) 
+       11.SI promedio >=6 mostrar ("Felicidades tu promedio es ", promedio) 
            SINO mostrar("tu promedio es de ", promedio, "No has aprobado")   
        
-![image](https://user-images.githubusercontent.com/107580905/186467690-bd3ff8ad-7b1b-452e-990b-8e3f9f9e670d.png)
-
+![image](https://user-images.githubusercontent.com/107580905/186564545-8e600e49-29c6-46a2-bf18-d65d8590457a.png)
 
 
        3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
