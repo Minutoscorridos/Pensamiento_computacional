@@ -51,17 +51,11 @@ Algoritmo sin_titulo
 	num3=0
 	
 	Escribir "Ingresa el primer número"
-	
 	Leer num1
-	
 	Escribir "Ingresa el segundo número"
-	
 	Leer num2
-	
 	Escribir "Ingresa el tercer número"
-	
 	Leer num3
-	
 	Si num1 < num2 y num1 < num3 Entonces
 		Si num2 < num3 Entonces
 			Escribir "Los números quedqn ordenados así ", num1," , ", num2," , ", num3
