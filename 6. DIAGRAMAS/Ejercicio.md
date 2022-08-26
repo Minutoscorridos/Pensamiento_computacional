@@ -30,14 +30,17 @@
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
         1. inicio
-        2. declarar float(altura) = 0
-        3. declarar float(base) = 0
-        4. escribe "Ingresa cuánto mida la altura en metros"
-        5. asigna altura
-        6. escribe "Ingresa cuánto mide la base en metros"
-        7. (multiplica(distmetros * 0.914) = distyardas)
-        8. escribe "distmetros," m"," = ",distyardas," y "
-        9. fin  
+        
+        3. declarar float(altura) = 0
+        4. 
+        5. declarar float(base) = 0
+        6. 
+        7. escribe "Ingresa cuánto mida la altura en metros"
+        8. asigna altura
+        9. escribe "Ingresa cuánto mide la base en metros"
+        10. (multiplica(distmetros * 0.914) = distyardas)
+        11. escribe "distmetros," m"," = ",distyardas," y "
+        12. fin  
 
 
 4.Dados tres numeros enteros, vía teclado, ordenarlos de menor a mayor. 
