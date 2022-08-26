@@ -25,7 +25,7 @@
        AQUI TU ALGORITMO Y DIAGRMA DE FLUJO
 
 
-4.Dados tres numeros vía teclado, ordenarlos de menor a mayor.  
+4.Dados tres numeros enteros, vía teclado, ordenarlos de menor a mayor.  
 Algoritmo sin_titulo
 	num1=0
 	num2=0
