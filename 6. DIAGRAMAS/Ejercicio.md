@@ -58,3 +58,4 @@ Algoritmo sin_titulo
 		Fin Si
 	Fin Si
 FinAlgoritmo
+![image](https://user-images.githubusercontent.com/107580905/186797384-22452c6f-b449-4f5b-abc8-71e6366d2474.png)
