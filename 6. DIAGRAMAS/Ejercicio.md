@@ -45,11 +45,8 @@
 Algoritmo sin_titulo
 
 	num1=0
-	
 	num2=0
-	
 	num3=0
-	
 	Escribir "Ingresa el primer número"
 	Leer num1
 	Escribir "Ingresa el segundo número"
