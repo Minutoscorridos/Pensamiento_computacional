@@ -28,8 +28,8 @@ tienes?
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
       1. inicio
-      2.declarar calif1(float), calif2(float), calif3(float), calif4(float), promedio(float)
-      3.asignar calif1 = 7
+      2. declarar calif1(float), calif2(float), calif3(float), calif4(float), promedio(float)
+      3. asignar calif1 = 7
       4. asignar calif2 = 8
       5. asignar calif3 = 6
       6. asignar calif4 = 5
@@ -42,12 +42,23 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-      TU ALGORITMO AQUI  
+      1. inicio
+      2. declarar nombre(str)
+      3. asignar nombre = "Juan"
+      4. mostrar "Hola ",nombre,", bienvenido."
 
 ## EJERCICIO 3
 
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
-      TU ALGORITMO AQUI  
+      1. inicio
+      2. declarar distancia(float)
+      3. declarar consumo(float)
+      4. declarar factor(float)
+      5. mostrar "Ingresa cuántos kilómetros has recorrido"
+      6. asignar distancia
+      7. consumo = 
 
-Ahora llevalos a PSINT
+
+
+PSINT
