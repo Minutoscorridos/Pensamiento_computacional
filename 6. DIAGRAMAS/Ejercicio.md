@@ -3,42 +3,45 @@
 
         AQUI TU ALGORITMO Y DIAGRMA DE FLUJO
         1 inicio
-        2 declarar numero entero
-        3 declarar resultado entero
-        3 escribir"Ingresa número" numero
+        2 declarar numero 
+        3 declarar resultado 
+        3 mostrar "Ingresa un número"
         4 asignar numero
-        5 resultado= (multiplica(numero*9)) 
-        6 muestra "El resultado de multiplicar por 9", resultado  
+        5 resultado = numero*9
+        6 muestra "El resultado de multiplicar ",numero," por 9 es ", resultado  
         7 fin
-        https://app.diagrams.net/
-      
+        
+      ![image](https://user-images.githubusercontent.com/107580905/187327672-786cf3e5-d2fd-41c0-8786-eeab958494a6.png)
+
    
     
 
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
         1. inicio
-        2. declarar float(distmetros) = 0
-        3. declarar float(distyardas) = 0
-        4. escribir "Ingresa distancia en metros"
-        5. asignar distmetros
-        6. (divide(distmetros / 0.914)) = distyardas 
-        7. escribe distmetros,"m  = ",distyardas,"y"
-        8. fin 
+        2. declarar distmetros(float) = 0, distyardas(float) = 0
+        3. mostrar "Ingresa distancia en metros"
+        4. asignar distmetros
+        5. distmetros / 0.914 = distyardas 
+        6. escribe distmetros," m  = ",distyardas,"y"
+        7. fin 
+        
+	![image](https://user-images.githubusercontent.com/107580905/187330131-54f161e2-daec-4342-a87e-d077e16a39a1.png)
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
         1. inicio
-        2. declarar float(altura) = 0
-        3. declarar float(base) = 0
-        4. escribe "Ingresa cuánto mida la altura en metros"
-        5. asigna altura
-        6. escribe "Ingresa cuánto mide la base en metros"
-        7. (multiplica(distmetros * 0.914) = distyardas)
-        8. escribe "distmetros," m"," = ",distyardas," y "
+        2. declarar altura(float) = 0, base(float) = 0, area(float) = 0
+        3. mostrar "Ingresa cuánto mide la altura en metros"
+        4. asigna altura
+        5. mostrar "Ingresa cuánto mide la base en metros"
+        6. asigna base
+        7. area = (base * altura)/2
+        8. mostrar "El área del triángulo con base = ",base," y altura = ",altura," es ",area," m2 "
         9. fin  
 
+         ![image](https://user-images.githubusercontent.com/107580905/187332797-d95b04d6-970e-4331-a641-023268de165e.png)
 
 4.Dados tres numeros enteros, vía teclado, ordenarlos de menor a mayor. 
 
