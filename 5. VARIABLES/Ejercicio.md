@@ -62,4 +62,4 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
 
 
 
-PSINT
+Ahora llevalos a PSINT
