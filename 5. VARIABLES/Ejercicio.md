@@ -63,7 +63,8 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
 
 
 Ahora llevalos a PSINT
-    
+
+###PSINT
 Algoritmo sin_titulo
 	distancia = 0
 	consumo = 0
