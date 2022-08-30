@@ -64,13 +64,13 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
 
 Ahora llevalos a PSINT
 
-###PSINT
-Algoritmo sin_titulo
-	distancia = 0
-	consumo = 0
-	Escribir "Ingresa cuántos kilómetros has recorrido "
-	Leer distancia
-	consumo = distancia * 20.8
-	Escribir "Consumiste ",consumo," litros de gasolina, durante tu recorrido de ",distancia," km"   
-FinAlgoritmo
+
+	Algoritmo sin_titulo
+	    distancia = 0
+	    consumo = 0
+	    Escribir "Ingresa cuántos kilómetros has recorrido "
+	    Leer distancia
+	    consumo = distancia * 20.8
+	    Escribir "Consumiste ",consumo," litros de gasolina, durante tu recorrido de ",distancia," km"   
+	FinAlgoritmo
    
