@@ -51,13 +51,14 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
+      
       1. inicio
-      2. declarar distancia(float)
-      3. declarar consumo(float)
-      4. declarar factor(float)
-      5. mostrar "Ingresa cuántos kilómetros has recorrido"
-      6. asignar distancia
-      7. consumo = 
+      2. declarar distancia(float), consumo(float) 
+      3. asignar consumo = 0
+      4. mostrar "Ingresa cuántos kilómetros has recorrido"
+      5. asignar distancia
+      6. consumo = distancia * factor
+      7. mostrar 
 
 
 
