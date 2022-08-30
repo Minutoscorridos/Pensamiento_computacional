@@ -27,7 +27,15 @@ tienes?
 
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
-      TU ALGORITMO AQUI
+      1. inicio
+      2.declarar calif1(float), calif2(float), calif3(float), calif4(float), promedio(float)
+      3.asignar calif1 = 7
+      4. asignar calif2 = 8
+      5. asignar calif3 = 6
+      6. asignar calif4 = 5
+      7. asignar promedio = 0
+      4. promedio = (calif1 + calif2 + calif3 + calif4)/4
+      5. mostrar "El promedio es  ", promedio
       
       
 ## EJERCICIO 3
