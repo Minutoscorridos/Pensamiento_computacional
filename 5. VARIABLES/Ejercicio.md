@@ -49,7 +49,7 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 
 ## EJERCICIO 3
 
-Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
+Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y calcule la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
       
       1. inicio
@@ -57,8 +57,8 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
       3. asignar consumo = 0
       4. mostrar "Ingresa cuántos kilómetros has recorrido"
       5. asignar distancia
-      6. consumo = distancia * factor
-      7. mostrar 
+      6. consumo = distancia * 20.8
+      7. mostrar " Consumiste ", consumo,"l"," durante tu recorrido de ",distancia, "km"   
 
 
 
