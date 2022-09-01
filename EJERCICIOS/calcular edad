@@ -9,3 +9,23 @@
       9. leer otromas
       10. fin mientras
       11. fin algoritmo
+
+            Algoritmo sin_titulo
+	añoactual=0
+	añonac=0
+	edad=0
+	otromas=""
+	Escribir "quieres calcular tu edad? s/n"
+	Leer otromas
+	Escribir "Inserta tu año de nacimiento"
+	Leer añonac
+	Escribir "inserta el año actual"
+	Leer anoactual
+	Mientras otromas==s o otromas=="S" Hacer
+		edad= añoactual-añonac
+		Escribir "Tu edad es ", edad
+		Escribir lista_de_expresiones
+	Fin Mientras
+    
+    
+            
