@@ -1,0 +1,11 @@
+      1. inicio
+      2.declarar añoactual= 2022, edad=0, añonac=0, otromas=" "
+      3.escribir ("Inseryta tu año de nacimiento")
+      4. asignar añonac
+      5.mientras otromas=="s" o otromas=="S" Hacer
+      6.edad=añoactual-añonac
+      7. escribir ("Tu edad es  ",edad)
+      8. escribir ("¿Quieres comocer otra edad?)
+      9. leer otromas
+      10. fin mientras
+      11. fin algoritmo
