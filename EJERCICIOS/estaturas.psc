@@ -5,8 +5,7 @@ Algoritmo sin_titulo
 	Si altura > 0 y altura < 2.2 Entonces
 		Si altura >0 y altura < 1.50 Entonces
 			Escribir "Eres de estatura baja" 
-		SiNo
-					
+		SiNo			
 			Si	altura < 1.70 Entonces
 				Escribir "Eres de estatura media"
 			SiNo	
@@ -14,6 +13,6 @@ Algoritmo sin_titulo
 				Fin Si
 		Fin Si
 	SiNo
-		Escribir "Formato inválido des  escribir en el formato entre 0 y 2.20"
+		Escribir "Formato invÃ¡lido des  escribir en el formato entre 0 y 2.20"
 	Fin Si
 FinAlgoritmo
