@@ -2,14 +2,15 @@
 ## Algoritmo 
      1. inicio
      2. declarar int(num_ingresado)
-     3.  declarar int(numero_secreto)
+     3.  declarar int(num_secreto)
      4. declarar int(vidas)
-     5. asignar numero_secreto = 15
-     	asignar vidas=1
+     5. asignar num_secreto = 15
+     		asignar vidas=1ingresado=0
+		asignar num_
      6. mostrar ("Bienvenido al juego del número secreto")
      7. mostrar ("Trata de adivinar el número secreto del uno al diez")
      8. asignar (num_ingresado)
-     9. MIENTRAS vidas < 6 
+     9. MIENTRAS vidas <= 5 
           SI num_ingresado <> num_secreto ENTONCES
               SI num_ingresado > num_secreto ENTONCES
               mostrar ("Tu número es mayor que el numero secreto, ingresa otro") 
@@ -19,7 +20,7 @@
           SINO
               mostrar ("¡Felicidades! Atinaste, el número secreto es ",num_secreto)    
           FIN SI  
-         vidas=vidas-1  
+         vidas=vidas+1  
          FIN MIENTRAS            
      10. FIN Algoritmo    
    
