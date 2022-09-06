@@ -5,24 +5,26 @@
      3.  declarar int(num_secreto)
      4. declarar int(vidas)
      5. asignar num_secreto = 15
-     		asignar vidas=1ingresado=0
-		asignar num_
+     		asignar vidas=1
+		asignar num_ingresado=0		
      6. mostrar ("Bienvenido al juego del número secreto")
-     7. mostrar ("Trata de adivinar el número secreto del uno al diez")
+     7. mostrar ("Ingresa un numero")
      8. asignar (num_ingresado)
      9. MIENTRAS vidas <= 5 
           SI num_ingresado <> num_secreto ENTONCES
               SI num_ingresado > num_secreto ENTONCES
-              mostrar ("Tu número es mayor que el numero secreto, ingresa otro") 
+              mostrar ("Tu número es mayor que el numero secreto, ingresa otro número, vamos en ",vidas) 
               SINO
-              mostrar ("Tu número es menor que el numero secreto, ingresa otro")
+              mostrar ("Tu número es menor que el numero secreto, ingresa otro número,vamos en ",vidas)
               FIN SI
           SINO
               mostrar ("¡Felicidades! Atinaste, el número secreto es ",num_secreto)    
           FIN SI  
          vidas=vidas+1  
-         FIN MIENTRAS            
+         FIN MIENTRAS
+	 Escribir "Lástima no adivinaste luego de cinco oprtunidades"
      10. FIN Algoritmo    
+   
    
 	Algoritmo NumeroSecreto
 		num_secreto=15
