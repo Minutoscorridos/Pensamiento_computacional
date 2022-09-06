@@ -25,7 +25,7 @@
      10. FIN Algoritmo    
    
 	Algoritmo NumeroSecreto
-		num_secreto=5
+		num_secreto=15
 		num_ingresado=0
 		vidas=1
 		Escribir "====================================="
