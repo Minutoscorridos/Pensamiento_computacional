@@ -91,3 +91,7 @@
                     Fin Mientras
 
                   FinAlgoritmo
+                  
+                  
+![image](https://user-images.githubusercontent.com/107580905/188549070-0a3e4298-5430-4c39-8ff6-17ba277708e6.png)
+                  
