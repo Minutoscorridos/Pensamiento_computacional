@@ -57,7 +57,36 @@
 
 ![image](https://user-images.githubusercontent.com/107580905/188542826-7c7e49dd-1227-4881-95ce-5cc73350041c.png)
 
+##este es en clase
+Algoritmo numsecreto
+	num_sec=azar(100+1)
+	num_ing=0
+	vidas=5
+	Escribir "========================================="
+	Escribir " Bienvenido al juego de numeroi secreto "
+	Escribir "========================================="
+	Escribir "Adivina el número secreto"
+	Leer num_ing
+	Mientras num_ing<>num_sec y vidas>0 Hacer
+		Si num_ing > num_sec Entonces
+			Escribir "el numero ",num_ing," es mayor que el numero secreto"
+		SiNo
+			Escribir "el numero ",num_ing, " es menor que el numero secreto"
+		
+		Fin Si
+	vidas=vidas-1
+	Escribir "Adivina el numero secreto te quedan ",vidas," vidas" 
+	Leer num_ing
+	Fin Mientras
+	Si num_ing==num_sec Entonces
+		Escribir "¡Felicidades, le atinaste en ",vidas," vidas, el numero secreto era ",num_sec
+	SiNo
+		Escribir "lastima se te acabaron las vidas, el numero secreto era ",num_sec
+	Fin Si
+FinAlgoritmo
 
-   
+  ![image](https://user-images.githubusercontent.com/107580905/188679397-59679ff7-b9d0-48f1-9b1c-718d14fbd2ef.png)
+
+  
    
     
