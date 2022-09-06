@@ -55,7 +55,9 @@
 	FinAlgoritmo
 
 
-   
-   ![image](https://user-images.githubusercontent.com/107580905/188532047-ba684799-58a2-4cd5-ae3b-c98331a3ad73.png)
+![image](https://user-images.githubusercontent.com/107580905/188542826-7c7e49dd-1227-4881-95ce-5cc73350041c.png)
 
+
+   
+   
     
