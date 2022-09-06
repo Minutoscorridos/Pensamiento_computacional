@@ -1,4 +1,4 @@
-##hacer programa que dados dos números, ingresados por teclado, calcule sa suma si se ingresa 1,2 si resta, 3 multiplicación o 4 división, 5 para salir
+##hacer programa que simule una calculadora dados dos números, ingresados por teclado, calcule La suma si se ingresa 1,2 si resta, 3 multiplicación o 4 división, 5 para salir
 
                     Algoritmo calculadora
                     num1=0.0
