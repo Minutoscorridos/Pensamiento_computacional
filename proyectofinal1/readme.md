@@ -16,5 +16,7 @@
         SINO
           mostrar "El numero q ingresaste es menor que el numero secreto"
       FIN    
-    
+   
+   ![image](https://user-images.githubusercontent.com/107580905/188532047-ba684799-58a2-4cd5-ae3b-c98331a3ad73.png)
+
     
